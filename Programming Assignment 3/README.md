@@ -8,7 +8,7 @@
   - `QuickSort.py`
 
 # Algorithm
-- QuickSort [reference 1](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.1-slides_algo-qsort-intro_typed.pdf), [reference 2](ttps://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.2-slides_algo-qsort-partition_typed.pdf).
+- QuickSort [reference 1](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.1-slides_algo-qsort-intro_typed.pdf), [reference 2](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.2-slides_algo-qsort-partition_typed.pdf).
 # Implementation
 1. First pivot
 2. Last pivot
