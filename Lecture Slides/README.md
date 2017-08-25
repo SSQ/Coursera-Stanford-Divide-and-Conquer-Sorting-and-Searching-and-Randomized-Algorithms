@@ -16,3 +16,13 @@ Week 2 Lecture slides:
   - [Motivation](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/4.1-slides_algo-master1_typed.pdf)
   - [Example](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/4.3-slides_algo-master3_typed.pdf)
   - [Proof I](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/4.4-slides_algo-master4_typed.pdf), [Proof II](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/4.6-slides_algo-master6_typed.pdf)
+  
+Week 3 Lecture slides:
+- 5: Randomized Algorithm - QuickSort:
+  - [High-Level Description](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.1-slides_algo-qsort-intro_typed.pdf);
+  - [In-Place Implementation](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.2-slides_algo-qsort-partition_typed.pdf);
+  - [Proof](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.3-slides_algo-qsort-correctness_typed.pdf);
+  - [Choosing a Good Pivot](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/5.4-slides_algo-qsort-pivot_typed.pdf)
+- 6: QuickSort Analysis:
+  - [the average running time of QuickSort (with random pivots)](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/6.3-slides_algo-qsort-analysis3_typed.pdf)
+- 7: Probability Review:
