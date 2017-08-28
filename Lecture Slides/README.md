@@ -33,4 +33,4 @@ Week 4 Lecture slides:
   - [Deterministic Selection](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/8.3-slides_algo-select-dalgorithm_typed.pdf)
 - 9: Graphs and The Minimum Cut
   - [Random Contraction Algorithm](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/9.3-slides_algo-karger-algorithm_typed.pdf)
-  - [Implementation](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/tree/master/Programming%20Assignment%204) by Python
+
