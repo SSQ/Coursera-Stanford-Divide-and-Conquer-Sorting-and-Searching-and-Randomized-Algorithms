@@ -1,4 +1,4 @@
-# Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms
+# ___Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms___
 
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-divide-conquer)
 
